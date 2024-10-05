@@ -1,6 +1,6 @@
 "use client";
 
-import { features, details } from "@/constants";
+import { features, details } from "../constants/index";
 import React from "react";
 import { Element } from "react-scroll";
 import Button from "./ui/Button";
